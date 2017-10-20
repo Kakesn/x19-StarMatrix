@@ -11,7 +11,7 @@ int main()
     int col;
     char star;
 
-    cout<<" Enter rows and columns of desired stars" <<endl;
+    cout<<"Enter rows and columns of stars:" <<endl;
     cin>> row;
     cin>> col;
 
